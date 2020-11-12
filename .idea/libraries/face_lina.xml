@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="face_lina">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/face_lina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
